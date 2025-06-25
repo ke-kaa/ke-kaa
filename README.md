@@ -1,12 +1,4 @@
-## Hi there 👋
-
-<!--
-**ke-kaa/ke-kaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...# 💫 About Me:
+# 💫 About Me:
 I am Software Engineering Student @ AAIT (Addis Ababa University) <br>Full Stack Developer with a love for clean architecture & elegant code
 
 
@@ -21,10 +13,3 @@ I am Software Engineering Student @ AAIT (Addis Ababa University) <br>Full Stack
 ![](https://github-profile-trophy.vercel.app/?username=ke-kaa&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
